@@ -1,0 +1,43 @@
+{
+    "name": "my-app-02",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@material-ui/core": "^3.2.2",
+        "@material-ui/icons": "^3.0.1",
+        "@types/material-ui": "^0.21.5",
+        "@types/prop-types": "^15.5.6",
+        "@types/react-loadable": "^5.4.1",
+        "@types/react-router-dom": "^4.3.1",
+        "@types/react-scroll": "^1.5.4",
+        "@types/react-swipeable-views": "^0.12.2",
+        "popmotion": "^8.4.1",
+        "react": "^16.5.2",
+        "react-anchor-link-smooth-scroll": "^1.0.11",
+        "react-dom": "^16.5.2",
+        "react-loadable": "^5.5.0",
+        "react-router-dom": "^4.3.1",
+        "react-scripts-ts": "^3.1.0",
+        "react-scroll": "^1.7.10",
+        "react-swipeable-views": "^0.12.18",
+        "react-vimeo": "^2.0.0",
+        "smoothscroll-polyfill": "^0.4.3"
+    },
+    "scripts": {
+        "start": "react-scripts-ts start",
+        "build": "react-scripts-ts build",
+        "test": "react-scripts-ts test --env=jsdom",
+        "eject": "react-scripts-ts eject"
+    },
+    "devDependencies": {
+        "@types/jest": "^23.3.5",
+        "@types/node": "^10.12.0",
+        "@types/react": "^16.4.18",
+        "@types/react-dom": "^16.0.9",
+        "scroll-js": "^1.9.1",
+        "typescript": "2.8.1"
+    },
+    "peerDependencies": {
+        "typescript": "3.x.x"
+    }
+}
